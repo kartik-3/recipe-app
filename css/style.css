@@ -1,0 +1,8 @@
+body {
+  background-color: rgb(71, 61, 61) !important;
+}
+
+.center-element {
+  display: block !important;
+  margin: 0 auto !important;
+}
